@@ -5,6 +5,7 @@ print ('Meu nome é Enzo, tenho 13 anos e estudo programação em python.')
 print('Qual é o seu nome?')
 nome = input()
 
+#Versão 2 Teste
 #validaçao do nome
 if nome == (""):
     while True: 
